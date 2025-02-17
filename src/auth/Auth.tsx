@@ -4,7 +4,7 @@ import { onAuthStateChanged } from "firebase/auth";
 import { useNavigate } from "react-router-dom";
 import CircleImage from "../assets/images/circles_bg.png";
 import GoogleIcon from "../assets/images/google.png";
-import TaskImage from "../assets/images/TaskImage.jpeg";
+import TaskImage from "../assets/images/task_list_view.png";
 
 // @ts-ignore
 const Auth = () => {
