@@ -30,7 +30,7 @@ Welcome to the **Task Management App**! This application helps you organize, tra
 1. **Clone the Repository**
  
 ```bash
-git clone https://github.com/Deepaktr20/Task-App.git
+git clone (https://github.com/Deepaktr20/Task-Management-App.git)
 cd task-management-app
 ```
  
